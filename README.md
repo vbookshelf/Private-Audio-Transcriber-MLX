@@ -7,6 +7,13 @@
 
 <br>
 
+### This is particularly valuable for:
+
+- Medical professionals transcribing patient notes
+- Legal professionals handling confidential information
+- Journalists protecting sources
+- Anyone concerned about privacy who doesn't want audio sent to cloud services
+
 <br>
 
 <img src="images/image1.png" alt="App screenshot" height="500">
