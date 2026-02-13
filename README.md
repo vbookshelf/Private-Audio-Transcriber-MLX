@@ -9,9 +9,11 @@
 
 ## This is particularly valuable for:
 
-- Medical professionals transcribing patient notes
-- Legal professionals handling confidential information
-- Journalists protecting sources
+- <strong>Healthcare in multilingual communities</strong> - Doctors/nurses transcribing notes
+- <strong>International business</strong> - Transcribing meetings, interviews, or calls in various languages
+- <strong>Researchers</strong> - Transcribing field interviews across different languages
+- <strong>Legal professionals</strong> - Handling cases involving non-English speakers
+- <strong>Journalists</strong> - Working with sources who speak different languages
 - Anyone concerned about privacy who doesn't want audio sent to cloud services
 
 <br>
