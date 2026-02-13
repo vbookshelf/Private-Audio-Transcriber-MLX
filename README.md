@@ -21,7 +21,6 @@
 - <strong>Runs offline</strong>: No data leaves your device.
 - <strong>Runs on mac</strong>: Supports MacOS only.
 - <strong>Fast</strong>: Uses the Apple MLX framework.
-- <strong>Medical specific</strong>: Uses Google's MedASR model pre-trained for medical dictation.
 - <strong>Supports batch transcriptions</strong>: Drag and drop your audio files.
 - <strong>Limited AI use</strong>: Reduces frustration and delays caused by AI processing errors. 
 - <strong>Self edit</strong>: Minimalist workflow. The system transcribes fast. You edit each transcription.
