@@ -36,7 +36,7 @@
 - <strong>Supports batch transcriptions</strong>: Drag and drop your audio files.
 - <strong>Self edit</strong>: Minimalist workflow. The system transcribes fast. You edit each transcription.
 - <strong>Double-click a file to run</strong>: No command line needed for daily use.
-- <strong>Free and Open Source</strong>: Ideal for high volume transcriptions where costs add up fast.
+- <strong>Free and Open Source</strong>: Ideal for high volume use cases where cloud costs add up fast.
 
 <br>
 
