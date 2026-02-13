@@ -39,6 +39,27 @@
 
 <br>
 
+## Multilingual Support
+
+Whisper supports 99 languages, making it one of the most multilingual speech recognition systems available.
+
+Major languages include:
+
+English, Spanish, French, German, Italian, Portuguese, Russian
+Chinese (Mandarin), Japanese, Korean, Cantonese
+Hindi, Bengali, Urdu, Punjabi, Tamil, Telugu
+Arabic, Persian, Hebrew, Turkish
+Indonesian, Vietnamese, Thai, Tagalog
+
+And many others like Afrikaans, Albanian, Amharic, Armenian, Assamese, Azerbaijani, Bashkir, Basque, Belarusian, Bosnian, Breton, Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, Estonian, Faroese, Finnish, Galician, Georgian, Greek, Gujarati, Haitian Creole, Hausa, Hawaiian, Hungarian, Icelandic, Javanese, Kannada, Kazakh, Khmer, Lao, Latin, Latvian, Lingala, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Myanmar, Nepali, Norwegian, Occitan, Pashto, Polish, Romanian, Sanskrit, Serbian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Sundanese, Swahili, Swedish, Tajik, Tatar, Tibetan, Turkmen, Ukrainian, Uzbek, Welsh, Yiddish, and Yoruba.
+
+- 65% of training data was English, only 17% was multilingual, so English performs best
+- Performance varies by language
+- Whisper Turbo automatically detects the language being spoken
+
+
+<br>
+
 ## Security
 
 - <strong>Local-Only Binding (Air-Gap Readiness)</strong><br>
