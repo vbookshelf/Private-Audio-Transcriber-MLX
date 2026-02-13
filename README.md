@@ -1,2 +1,2 @@
-# Private-Audio-Transcriber-MLX
-Offline dictation and transcription for Mac. Powered by Whisper-MLX.
+# Private Audio Transcriber
+Offline multilingual audio dictation and transcription for Mac. Powered by Whisper-MLX.
