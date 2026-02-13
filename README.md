@@ -5,7 +5,7 @@ Offline multilingual audio dictation and transcription for Mac. Powered by Whisp
 
 ## Simple Self Customization
 
-This app can be used in many languages and in many domains - medical, legal etc. The code is simple. Someone with only a basic knowledge of Python can modify the format of the output text to suit a particular use case. Only the run_transcription function (below) needs to be modified in the ```app.py``` file.
+This app can be used in many languages and in many domains - medical, legal etc. The code is simple. Someone with only a basic knowledge of Python (or an AI assistant) can modify the output text to suit a particular use case. Only the run_transcription function (below) needs to be modified in the ```app.py``` file.
 
 ```
 def run_transcription(audio_path):
