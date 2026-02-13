@@ -7,7 +7,7 @@
 
 <br>
 
-### This is particularly valuable for:
+## This is particularly valuable for:
 
 - Medical professionals transcribing patient notes
 - Legal professionals handling confidential information
