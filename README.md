@@ -33,7 +33,6 @@
 - <strong>Runs on mac</strong>: Supports MacOS only.
 - <strong>Fast</strong>: Uses the Apple MLX framework.
 - <strong>Supports batch transcriptions</strong>: Drag and drop your audio files.
-- <strong>Limited AI use</strong>: Reduces frustration and delays caused by AI processing errors. 
 - <strong>Self edit</strong>: Minimalist workflow. The system transcribes fast. You edit each transcription.
 - <strong>Double-click a file to run</strong>: No command line needed for daily use.
 
