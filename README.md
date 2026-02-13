@@ -37,7 +37,7 @@
 - <strong>Self edit</strong>: Minimalist workflow. The system transcribes fast. You edit each transcription.
 - <strong>Double-click a file to run</strong>: No command line needed for daily use.
 - <strong>Free and Open Source</strong>: Ideal for high volume use cases where cloud costs add up fast.
-- <strong>Self-Contained Single-File Architecture:</strong> The frontend and backend code is contained in a single app.py file. This "see the entire picture at once" design makes the codebase easy to audit for security and privacy. It also makes the code highly maintainable through AI collaboration. Developers can share the entire codebase with an AI assistant in a single prompt. This enables them to add features or fix bugs immediately rather than logging GitHub issues and waiting for responses.
+- <strong>Self-Contained Single-File Architecture:</strong> The frontend and backend code is contained in a single ```app.py``` file. This "see the entire picture at once" design makes the codebase easy to audit for security and privacy. It also makes the code highly maintainable through AI collaboration. Developers can share the entire codebase with an AI assistant in a single prompt. This enables them to add features or fix bugs immediately rather than logging GitHub issues and waiting for responses.
 
 - <strong>"Double-Click to Run" Accessibility:</strong> Through a simple .command MacOS script, the application can be launched without needing to use the command line, making it accessible to non-programmers.
 
