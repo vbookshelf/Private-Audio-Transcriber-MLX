@@ -1,13 +1,14 @@
 # Private Audio Transcriber (P-A-T)
 
-- A lightweight, fully offline, multilingual dictation and transcription tool for Mac.
+- A lightweight, fully offline dictation and transcription tool for Mac.
 - Record audio in the app or drag and drop audio files.
 - Your data never leaves your device.
 - Powered by MLX-Whisper.
+- Multilingual
 
 <br>
 
-## This is particularly valuable for:
+## This is helpful for:
 
 - <strong>Healthcare in multilingual communities</strong> - Doctors/nurses transcribing notes
 - <strong>International business</strong> - Transcribing meetings, interviews, or calls in various languages
