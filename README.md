@@ -180,9 +180,9 @@ The project folder must be placed on your desktop before the app is launched.
 
 <br>
 
-## Simple Self Customization
+## Easy to customize
 
-This app can be used in many languages and in many domains - medical, legal etc. The code is simple. Someone with only a basic knowledge of Python (or an AI assistant) can modify the output text to suit a particular use case. Only the run_transcription function (below) needs to be modified in the ```app.py``` file.
+The code is simple. Someone with only a basic knowledge of Python (or an AI assistant) can modify the code to tailor the output to suit a particular use case. Only the run_transcription function (below) needs to be modified in the ```app.py``` file.
 
 ```
 def run_transcription(audio_path):
@@ -242,7 +242,7 @@ elif language == 'es':
 
 <br>
 
-## Whisper model can also be changed
+## The Whisper model can also be changed
 
 This app uses the mlx-community/whisper-turbo model. You can change this to another mlx whisper model.
 These are the available options:<br>
