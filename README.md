@@ -13,7 +13,9 @@ This free tool is particularly valuable for those who want the power of OpenAI's
 <br>
 
 <img src="images/image1.png" alt="App screenshot" height="500">
-<p>Transcriptions are displayed with original audio for easier checking</p>
+
+- User-friendly, "distraction-free" interface
+- Transcriptions are displayed with original audio for easier checking
 
 <br>
 
