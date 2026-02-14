@@ -15,7 +15,7 @@
 - <strong>Researchers</strong> - Transcribing field interviews across different languages
 - <strong>Legal professionals</strong> - Handling cases involving non-English speakers
 - <strong>Journalists</strong> - Working with sources who speak different languages
-- Anyone concerned about privacy who doesn't want audio sent to cloud services
+- <strong>Privacy paranoid</strong> - Anyone concerned about privacy who doesn't want audio sent to cloud services
 
 <br>
 
