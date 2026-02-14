@@ -30,10 +30,17 @@ uv lock || { echo "[ERROR] uv failed to update lockfile"; exit 1; }
 echo "[INFO] Syncing dependencies..."
 uv sync || { echo "[ERROR] uv failed to sync dependencies"; exit 1; }
 
-# --- Download HuggingFace Model ---
-echo "[INFO] Checking/Downloading model: mlx-community/whisper-turbo"
-# This command downloads the model into the "models" folder relative to the script
-uvx --from huggingface-hub hf download mlx-community/whisper-turbo --local-dir ./models/whisper-turbo-mlx/
+# --- Download HuggingFace Model (only if missing) ---
+MODEL_DIR="./models/whisper-turbo-mlx"
+if [ -d "$MODEL_DIR" ] && [ -n "$(ls -A "$MODEL_DIR" 2>/dev/null)" ]; then
+    echo "[INFO] Model already exists at $MODEL_DIR - skipping download"
+else
+    echo "[INFO] Downloading model: mlx-community/whisper-turbo"
+    uvx --from huggingface-hub hf download mlx-community/whisper-turbo --local-dir "$MODEL_DIR" || {
+        echo "[ERROR] Failed to download model"
+        exit 1
+    }
+fi
 
 # --- Launch app ---
 echo "[INFO] Launching app..."
