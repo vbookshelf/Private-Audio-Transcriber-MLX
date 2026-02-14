@@ -29,7 +29,7 @@
 - <strong>Free and Open Source</strong>: Ideal for high volume use cases where cloud costs add up fast.
 - <strong>Self-Contained Single-File Architecture:</strong> The frontend and backend code is contained in a single ```app.py``` file. This "see the entire picture at once" design makes the codebase easy to audit for security and privacy. It also makes the code highly maintainable through AI collaboration. Developers can share the entire codebase with an AI assistant in a single prompt. This enables them to add features or fix bugs immediately rather than logging GitHub issues and waiting for responses.
 
-- <strong>"Double-Click to Run" Accessibility:</strong> Through a simple .command MacOS script, the application can be launched without needing to use the command line, making it accessible to non-programmers.
+- <strong>"Double-Click to Run" Accessibility:</strong> Through a simple ```.command``` MacOS script, the application can be launched without needing to use the command line. This makes it accessible to non-programmers.
 
 
 <br>
@@ -49,7 +49,7 @@
   The /transcribe endpoint requires a specific custom header (X-Requested-With: MedicalApp). This acts as a basic CSRF (Cross-Site Request Forgery) defense by ensuring requests originate from your frontend and not a simple cross-origin form submission.
 
 - <strong>Automated Temporary File Cleanup</strong><br>
-  To protect patient privacy and data sovereignty, the app uses a finally block to ensure all uploaded audio files and converted .wav files are deleted from the local disk immediately after transcription, regardless of whether the process succeeded or failed.
+  To protect patient privacy and data sovereignty, the app uses a finally block to ensure all uploaded audio files are deleted from the local disk immediately after transcription, regardless of whether the process succeeded or failed.
 
 - <strong>Error Masking & Detailed Logging</strong><br>
    The backend is configured to log detailed exception data to the server terminal while returning only generic, "safe" error messages to the client. This prevents "Information Leakage" where internal file paths or system configurations might be exposed to the user interface.
@@ -241,7 +241,7 @@ Please keep in mind that the mlx-community/whisper-turbo model is auto downloade
 
 ## Notes
 
-- Performance varies depending on the language.
+- Transcription quality varies depending on the language.
 - Whisper Turbo automatically detects the language being spoken.
 
 
