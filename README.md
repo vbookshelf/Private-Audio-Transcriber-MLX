@@ -122,6 +122,7 @@ cd Private-Audio-Transcriber-v1.0
 
 7. Paste this command into the terminal and press Enter:
 (This overwrites the file and changes the file permissions to make it executable.)
+
 cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x start-mac-app.command
 
 8. Open the Private-Audio-Transcriber-v1.0 folder
@@ -130,6 +131,8 @@ cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x st
 
 10. The app will auto download all requirements and then open in your browser.
 The whisper-turbo mlx model (1.61 GB) will also be downloaded.
+The first time, the app may take about a minute to start.
+After that it will start very fast.
 
 
 --------------------------------------------------------------
