@@ -7,6 +7,7 @@
 - Powered by MLX-Whisper (whisper-turbo-mlx).
 - Multilingual
 
+This tool is particularly valuable for those who want the power of OpenAI's Whisper model, but are restricted by law or ethics from sending their audio to the cloud.
 
 
 <br>
