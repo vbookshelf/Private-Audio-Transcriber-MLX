@@ -1,4 +1,4 @@
-# Private Audio Transcriber (P-A-T)
+# Private Audio Transcriber (PAT)
 
 - A lightweight, fully offline dictation and transcription tool for Mac.
 - Record audio in the app or drag and drop audio files.
