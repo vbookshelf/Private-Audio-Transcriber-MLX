@@ -79,7 +79,7 @@ System Requirements
 Operating System: MacOS
 Computer: Apple Silicon Mac (M Series)
 RAM: 8GB
-Free disk Space: 2 GB
+Free disk Space: 2.5 GB
 
 --------------------------------------------------------------
 Step-by-Step Setup
@@ -110,27 +110,26 @@ wget -qO- https://astral.sh/uv/install.sh | sh
 
 On GitHub click on "<> Code". Then select "Download Zip"
 Download the project folder and unzip it.
-Inside the main folder you will find a folder named: Medical-Transcriber-v1.0
-Place Medical-Transcriber-v1.0 on your desktop.
+Inside the main folder you will find a folder named: Private-Audio-Transcriber-v1.0
+Place Private-Audio-Transcriber-v1.0 on your desktop.
 
 4. Install the App
 --------------------------------------------------------------
 
-1. cd into Medical-Transcriber-v1.0 folder:
+1. cd into Private-Audio-Transcriber-v1.0 folder:
 cd Desktop
-cd Medical-Transcriber-v1.0
+cd Private-Audio-Transcriber-v1.0
 
 7. Paste this command into the terminal and press Enter:
 (This overwrites the file and changes the file permissions to make it executable.)
 cat start-mac-app.command > temp && mv temp start-mac-app.command && chmod +x start-mac-app.command
 
-8. Open the Medical-Transcriber-v1.0 folder
+8. Open the Private-Audio-Transcriber-v1.0 folder
 
 9. Double click this file: start-mac-app.command
 
 10. The app will auto download all requirements and then open in your browser.
-The first time you will need to wait a few seconds for the app to load. It will look like nothing is happening. Don't close the terminal.
-Please ignore any escape related error messages.
+The whisper-turbo mlx model (1.61 GB) will also be downloaded.
 
 
 --------------------------------------------------------------
@@ -148,6 +147,7 @@ Future startup
 
 Now that the setup is complete, in future simply double-click the start-mac-app.command file to launch the app.
 The project folder must be placed on your desktop before the app is launched.
+
 
 
 ```
