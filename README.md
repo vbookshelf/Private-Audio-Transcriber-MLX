@@ -7,14 +7,14 @@
 - Powered by MLX-Whisper (whisper-turbo-mlx).
 - Multilingual
 
-This humble tool is particularly valuable for those who want the power of OpenAI's Whisper model, but are restricted by law or ethics from sending their audio to the cloud. It's "calm tech" - software that quietly does one job, and then stays out of the way.
+This humble tool is particularly valuable for those who want the power of OpenAI's Whisper model, but are restricted by law or ethics from sending their audio to the cloud. It's calm tech - software that quietly does one job, and then stays out of the way.
 
 
 <br>
 
 <img src="images/image1.png" alt="App screenshot" height="500">
 
-- User-friendly, "distraction-free" interface
+- User-friendly, distraction-free interface
 - Transcriptions are displayed with original audio for easier checking
 
 <br>
