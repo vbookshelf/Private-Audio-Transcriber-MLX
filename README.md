@@ -258,6 +258,13 @@ https://huggingface.co/mlx-community/whisper-turbo
 
 <br>
 
+## Discussion Forum
+
+Feel free to share your thoughts and experiences. Click on the "Discussions" tab above to open the discussion forum for this project.
+
+
+<br>
+
 
 ## Revision History
 
