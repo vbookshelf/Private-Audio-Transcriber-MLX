@@ -1,7 +1,7 @@
 # Private Audio Transcriber (PAT)
 
 - A lightweight, fully offline dictation and transcription tool for Mac.
-- The system transcribes fast. The user immediately fixes any errors.
+- Collaborative workflow. The system transcribes fast. The user immediately fixes any errors.
 - Record in app or drag and drop audio files.
 - Your data never leaves your device.
 - Powered by MLX-Whisper (whisper-turbo-mlx).
