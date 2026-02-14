@@ -2,7 +2,7 @@
 
 - A lightweight, fully offline dictation and transcription tool for Mac.
 - Minimalist workflow. The system transcribes fast. You immediately fix any errors.
-- Record audio in the app or drag and drop audio files.
+- Record in app or drag and drop audio files.
 - Your data never leaves your device.
 - Powered by MLX-Whisper (whisper-turbo-mlx).
 - Multilingual
