@@ -9,6 +9,8 @@
 
 This humble tool is particularly valuable for those who want the power of OpenAI's Whisper model, but are restricted by law or ethics from sending their audio to the cloud. It's calm tech - software that quietly does one job, and then stays out of the way.
 
+YouTube Demo<br>
+https://www.youtube.com/watch?v=IsaXxHD7nfI
 
 <br>
 
