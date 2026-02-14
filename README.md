@@ -138,7 +138,7 @@ Stopping the App
 
 The app does not stop running when you close the browser tab.
 To shut down the app, close the terminal window.
-You can also close the terminal by selecting it and typing Ctrl+C on Mac.
+You can also close the terminal by selecting it and typing: Ctrl+C
 
 
 --------------------------------------------------------------
