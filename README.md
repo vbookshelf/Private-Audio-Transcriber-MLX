@@ -6,16 +6,6 @@
 - Powered by MLX-Whisper (whisper-turbo-mlx).
 - Multilingual
 
-<br>
-
-## This is helpful for:
-
-- <strong>Healthcare in multilingual communities</strong> - Doctors/nurses transcribing notes
-- <strong>International business</strong> - Transcribing meetings, interviews, or calls in various languages
-- <strong>Researchers</strong> - Transcribing field interviews across different languages
-- <strong>Legal professionals</strong> - Handling cases involving non-English speakers
-- <strong>Journalists</strong> - Working with sources who speak different languages
-- <strong>Privacy paranoid</strong> - Anyone concerned about privacy who doesn't want audio sent to cloud services
 
 <br>
 
