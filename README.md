@@ -21,7 +21,7 @@
 
 ## Features
 
-- <strong>Runs offline</strong>: No data leaves your device.
+- <strong>Runs offline</strong>: Data stays local.
 - <strong>Fully Transparent:</strong> All code files accessible for review. No black-box executables. No proprietary wrappers.
 - <strong>Runs on mac</strong>: Supports MacOS only.
 - <strong>Fast</strong>: Uses the Apple MLX framework.
