@@ -1,5 +1,7 @@
 # Private Audio Transcriber (PAT)
 
+### Digitize voice notes offline.
+
 - A lightweight, fully offline dictation and transcription tool for Mac.
 - Collaborative workflow. The system transcribes fast. You immediately fix any errors.
 - Record in app, or drag and drop audio files.
