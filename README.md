@@ -2,6 +2,7 @@
 
 - A lightweight, fully offline dictation and transcription workstation for Mac.
 - Collaborative workflow. The system transcribes fast. You immediately fix any errors.
+- Supports batch processing.
 - Record in app, or drag and drop audio files.
 - Your data never leaves your device.
 - Powered by MLX-Whisper (whisper-turbo-mlx).
