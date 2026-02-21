@@ -287,3 +287,5 @@ Prototype. Released for testing.
 - What makes Whisper a brilliant choice is not just the quality of the model, it's the fact the pre-processing and inference pipeline is built into the package. This makes it simple to use and robust. If a translation model provider were to follow this same end-to-end recipe, they would rule the offline translation space.
 
 - The mlx-community/tiny-aya-global-8bit-mlx translation model is very easy to use with MLX. No issues with the MLX model version. Because Whisper is aleady running on MLX it means that Ollama is no longer needed when building an offline transcription plus translation system. Aya (from Cohere) supports 55 languages. The lesson is that sometimes you don't need the most accurate model. You need the model that's easiest to deploy.
+
+- Was able to build an offline MLX version of Google Translate in less than an hour. Because of AI, the gap between what a team can ship and what a solo dev can ship is narrowing.
