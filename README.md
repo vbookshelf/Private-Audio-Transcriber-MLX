@@ -285,3 +285,5 @@ Prototype. Released for testing.
 - Tried to add translation by using mlx-community/translategemma-12b-it-4bit. This wouldn't work because of issues with the template. Lesson is that the mlx eco-system is not mature and therefore not reliable. A better option may be to use Ollama to serve the translation model.
 
 - What makes Whisper a brilliant choice is not just the quality of the model, it's the fact the pre-processing and inference pipeline is built into the package. This makes it simple to use and robust. If a translation model provider were to follow this same end-to-end recipe, they would rule the offline translation space.
+
+- The mlx-community/tiny-aya-global-8bit-mlx translation model is very easy to use with MLX. No issues with the MLX model version. Because Whisper is aleady running on MLX it means that Ollama is no longer needed when building an offline transcription plus translation system. Aya (from Cohere) supports 55 languages. The lesson is that sometimes you don't need the most accurate model. You need the model that's easiest to deploy.
