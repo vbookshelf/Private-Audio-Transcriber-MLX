@@ -1,4 +1,4 @@
-# Private Audio Transcriber Console (PAT)
+# Private Audio Transcriber (PAT)
 
 - A lightweight, fully offline dictation and transcription console for Mac.
 - Collaborative workflow. The system transcribes fast. You immediately fix any errors.
