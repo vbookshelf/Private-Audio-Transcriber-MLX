@@ -5,13 +5,13 @@ Version 2.0 - Transcription and Translation
 
 # Private Audio Transcriber (PAT)
 
-- A lightweight, fully offline dictation and transcription console for Mac.
+- A lightweight, fully offline, multilingual dictation and transcription console for Mac.
 - Collaborative workflow. The system transcribes fast. You immediately fix any errors.
 - Supports batch processing.
 - Record in app, or drag and drop audio files.
 - Your data never leaves your device.
-- Powered by MLX-Whisper (whisper-turbo-mlx).
-- Multilingual
+- Powered by MLX-Whisper (whisper-turbo-mlx) for transcription and Tiny-Aya-Global (tiny-aya-global-8bit-mlx) for translation.
+
 
 This tool is particularly valuable for professionals who want the power of OpenAI's Whisper model, but are restricted by law or ethics from sending their audio to the cloud.
 
@@ -41,6 +41,7 @@ https://www.youtube.com/watch?v=IsaXxHD7nfI
 - <strong>Self-Contained Single-File Architecture:</strong> The frontend and backend code is contained in a single ```app.py``` file. This "see the entire picture at once" design makes the codebase easy to audit for security and privacy. It also makes the code highly maintainable through AI collaboration. Developers can share the entire codebase with an AI assistant in a single prompt. This enables them to add features or fix bugs immediately rather than logging GitHub issues and waiting for responses.
 
 - <strong>"Double-Click to Run" Accessibility:</strong> Through a simple ```.command``` MacOS script, the application can be launched without needing to use the command line. This makes it accessible to non-programmers.
+- <strong>Translation support</strong>: Version 2.0 has a translation feature that supports more than 60 languages.
 
 
 <br>
@@ -71,6 +72,8 @@ https://www.youtube.com/watch?v=IsaXxHD7nfI
 <br>
 
 ## How to Install and Run
+
+Note: The instructions below are for version 1.0. The process is the same for version 2.0 however, in version 2.0 two models will be downloaded during installation (5.2 GB total).
 
 <br>
 
