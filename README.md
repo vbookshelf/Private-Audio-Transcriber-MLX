@@ -31,8 +31,18 @@ https://www.youtube.com/watch?v=IsaXxHD7nfI
 
 <br>
 
+## Version 2.0 (Transcription and Translation)
 
 <br>
+
+<img src="images/image2.png" alt="App screenshot" height="500">
+
+- Quick translation
+- Supports more than 60 languages
+
+<br>
+
+
 
 ## Features
 
