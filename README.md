@@ -253,6 +253,41 @@ Please keep in mind that the mlx-community/whisper-turbo model is auto downloade
 
 <br>
 
+
+## Improve Privacy and Reliability
+
+<br>
+
+<strong>Turn on FileVault Disk Encryption</strong>
+
+FileVault is a built-in macOS security feature that provides full-disk encryption. This ensures that if a Mac is lost or stolen the files cannot be accessed. 
+
+<i>System Settings > Privacy & Security > Scroll down to FileVault</i>
+
+<img src="https://github.com/vbookshelf/Offline-MedAi-Console/blob/main/images/image10.png" alt="FileVault" height="500">
+
+<br>
+
+
+<strong>Turn off telemetry on your Mac</strong>
+
+<i>System Settings > Privacy & Security > Analytics & Improvements</i><br>
+(This does not block all telemetry.)
+
+<img src="https://github.com/vbookshelf/Offline-MedAi-Console/blob/main/images/image9.png" alt="Ollama desktop app settings" height="500">
+
+<br>
+
+<strong>Disable automatic download and installation of MacOS updates</strong>
+
+This will ensure that you don't wake up one morning and discover that a new OS has been installed and it has negatively impacted the operation of your Mac.
+
+<i>System Settings > General > Software Update > Scroll down to Automatic Updates > Click on "i"</i>
+   
+<img src="https://github.com/vbookshelf/Offline-MedAi-Console/blob/main/images/image11.png" alt="Ollama desktop app settings" height="500">
+
+<br>
+
 ## Notes
 
 - Transcription quality varies depending on the language.
