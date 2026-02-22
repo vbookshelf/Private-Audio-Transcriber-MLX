@@ -15,6 +15,8 @@ Version 2.0 - Transcription and Translation
 
 This tool is particularly valuable for professionals (doctors, lawyers, journalists) who need to convert audio recordings to text, but are restricted by law or ethics from sending their data to the cloud.
 
+<br>
+
 ## Version 1.0 (Transcription only)
 
 YouTube Demo<br>
