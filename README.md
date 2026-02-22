@@ -13,7 +13,7 @@ Version 2.0 - Transcription and Translation
 - Powered by MLX-Whisper (whisper-turbo-mlx) for transcription and Tiny-Aya-Global (tiny-aya-global-8bit-mlx) for translation.
 
 
-This tool is particularly valuable for professionals who want the power of OpenAI's Whisper model, but are restricted by law or ethics from sending their audio to the cloud.
+This tool is particularly valuable for professionals (doctors, lawyers, journalists) who need to convert audio recordings to text, but are restricted by law or ethics from sending their data to the cloud.
 
 YouTube Demo<br>
 https://www.youtube.com/watch?v=IsaXxHD7nfI
