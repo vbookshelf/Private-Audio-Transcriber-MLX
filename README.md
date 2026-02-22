@@ -1,3 +1,8 @@
+Version 1.0 - Transcription only<br>
+Version 2.0 - Transcription and Translation
+
+<br>
+
 # Private Audio Transcriber (PAT)
 
 - A lightweight, fully offline dictation and transcription console for Mac.
