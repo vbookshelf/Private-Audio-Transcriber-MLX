@@ -286,6 +286,10 @@ Version 1.0<br>
 14-Feb-2026<br>
 Prototype. Released for testing.
 
+Version 2.0<br>
+22-Feb-2026<br>
+Prototype. Added translation feature. Released for testing.
+
 <br>
 
 ## Rough Project Notes
