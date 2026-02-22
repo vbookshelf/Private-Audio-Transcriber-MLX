@@ -247,26 +247,6 @@ elif language == 'es':
 
 <br>
 
-## The Whisper model can also be changed
-
-This app uses the mlx-community/whisper-turbo model. You can change this to another mlx whisper model.
-These are the available options:<br>
-https://huggingface.co/collections/mlx-community/whisper
-
-You will need to download it. Place it in the "models" folder, and change the model path in the code:
-
-```
-result = mlx_whisper.transcribe(
-        audio_path,
-        # Make sure this points to your local model directory
-        path_or_hf_repo="models/whisper-turbo-mlx"
-    )
-```
-
-Please keep in mind that the mlx-community/whisper-turbo model is auto downloaded during installation. Refer to the ```start-mac-app.command``` file.
-
-<br>
-
 
 ## Improve Privacy and Reliability
 
