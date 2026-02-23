@@ -322,7 +322,7 @@ Prototype. Added translation feature. Released for testing.
 <br>
 
 
-### Rough Notes
+## Rough Notes
 
 - When the input text contains multiple paragraphs, Tiny-Aya-Global sometimes fails to translate the last paragraph. It seems that the model incorrectly thinks that it has reached the end of the input text.
 
