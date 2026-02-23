@@ -324,6 +324,6 @@ Prototype. Added translation feature. Released for testing.
 
 ## Rough Notes
 
-- When the input text contains multiple paragraphs, Tiny-Aya-Global sometimes fails to translate the last paragraph. It seems that the model incorrectly thinks that it has reached the end of the input text.
+- When the input text contains multiple paragraphs, tiny-aya-global-8bit-mlx sometimes fails to translate the last paragraph. It seems that the model incorrectly thinks that it has reached the end of the input text. It could be that the quantization is causing this instability. The BF16 model might be fine.
 
 <br>
